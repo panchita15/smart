@@ -24,3 +24,4 @@ yarn-error.log*
 *.yml text eol=lf
 *.yaml text eol=lf
 *.html text eol=lf
+.vercel
